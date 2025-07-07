@@ -106,14 +106,3 @@ Please open an issue to discuss features or improvements before submitting.
 ## 📄 License
 
 MIT © 2025 Huzaifa Azim
-
-```
-
-Let me know if you want:
-- Auto-badges (npm version, downloads, etc.)
-- To scaffold GitHub repo setup
-- To move on to Tool #2: `folder-hasher` 🗂️
-```
-
-
-# md-license-header

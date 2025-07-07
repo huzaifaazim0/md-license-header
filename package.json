@@ -1,0 +1,33 @@
+{
+    "name": "md-license-header",
+    "version": "0.0.1",
+    "description": "Add or update license headers to source code files from CLI",
+    "main": "lib/index.js",
+    "bin": {
+      "md-license-header": "bin/cli.js"
+    },
+    "keywords": ["license", "header", "cli", "opensource", "nodejs"],
+    "author": "Huzaifa Azim",
+    "contributors": [
+        {
+            "name": "Huzaifa Azim",
+            "email": "huzaifaazim0@gmail.com",
+            "url": "https://github.com/huzaifaazim0"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/huzaifaazim0/md-license-header.git"
+    },
+    "bugs": {
+        "url": "https://github.com/huzaifaazim0/md-license-header/issues"
+    },
+    "homepage": "https://github.com/huzaifaazim0/md-license-header#readme",
+    "license": "MIT",
+    "dependencies": {
+      "chalk": "^5.3.0",
+      "globby": "^13.2.2",
+      "minimist": "^1.2.8"
+    }
+  }
+  
