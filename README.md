@@ -1,5 +1,3 @@
-Here's your complete `README.md` for **`md-license-header`**, formatted in plain Markdown — ready to drop into your project:
-
 ````markdown
 # 📜 md-license-header
 
@@ -117,4 +115,5 @@ Let me know if you want:
 - To scaffold GitHub repo setup
 - To move on to Tool #2: `folder-hasher` 🗂️
 ```
+# md-license-header
 # md-license-header
