@@ -1,5 +1,4 @@
-````markdown
-# 📜 md-license-header
+# md-license-header
 
 > Add or update license headers in code files using MIT, Apache 2.0, or custom templates — from the command line.
 
@@ -115,5 +114,6 @@ Let me know if you want:
 - To scaffold GitHub repo setup
 - To move on to Tool #2: `folder-hasher` 🗂️
 ```
-# md-license-header
+
+
 # md-license-header
